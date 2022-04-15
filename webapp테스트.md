@@ -70,7 +70,7 @@ Deployment endpoint responded with status code 202
 root@user23-bastion-vm1:~/webapp# 
 ```
 
-#### 배포된 웹앱을 브라우저에서 확인
+#### 배포된 웹앱을 브라우저에서 확인 
 
 - https://skwinwebapp23.azurewebsites.net
 
